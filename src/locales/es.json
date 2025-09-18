@@ -1,0 +1,18 @@
+{
+  "readMore": "ver mas",
+  "unavailable-news": "la notica no esta disponible",
+  "authoring-phrase": {
+    "intro": "Hecho con",
+    "use": "utilizado",
+    "author": "Por el equipo de desarollo de {brand}"
+  },
+  "article": {
+    "share": "compartir",
+    "copy-to-clipboard": "copiar al portapapeles"
+
+  },
+  "footer": {
+    "powered-by": "desarrollado por",
+    "and": "y"
+  }
+}
